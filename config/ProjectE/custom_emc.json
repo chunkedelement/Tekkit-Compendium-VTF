@@ -1,4 +1,152 @@
 {
-  "entries": [],
-  "__comment": "Use the in-game commands to edit this file"
+  "entries": [
+    {
+      "item": "minecraft:blaze_powder|0",
+      "emc": 384
+    },
+    {
+      "item": "harvestcraft:walleyerawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "OD|listAllfishfresh",
+      "emc": 64
+    },
+    {
+      "item": "harvestcraft:jellyfishrawitem|0",
+      "emc": 32
+    },
+    {
+      "item": "quark:biotite|0",
+      "emc": 256
+    },
+    {
+      "item": "appliedenergistics2:material|1",
+      "emc": 64
+    },
+    {
+      "item": "appliedenergistics2:material|10",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|11",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|12",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|22",
+      "emc": 2144
+    },
+    {
+      "item": "appliedenergistics2:material|20",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|18",
+      "emc": 2048
+    },
+    {
+      "item": "appliedenergistics2:material|17",
+      "emc": 8192
+    },
+    {
+      "item": "appliedenergistics2:material|16",
+      "emc": 32
+    },
+    {
+      "item": "appliedenergistics2:material|23",
+      "emc": 128
+    },
+    {
+      "item": "appliedenergistics2:material|24",
+      "emc": 8288
+    },
+    {
+      "item": "redstonearsenal:material|32",
+      "emc": 1601
+    },
+    {
+      "item": "redstonearsenal:material|128",
+      "emc": 1601
+    },
+    {
+      "item": "thermalfoundation:material|2049",
+      "emc": 2
+    },
+    {
+      "item": "thermalfoundation:material|2051",
+      "emc": 1
+    },
+    {
+      "item": "thermalfoundation:material|2053",
+      "emc": 32
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|13",
+      "emc": 4384
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|14",
+      "emc": 7354
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|15",
+      "emc": 10644
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|23",
+      "emc": 3904
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|24",
+      "emc": 9024
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|25",
+      "emc": 33284
+    },
+    {
+      "item": "thermaldynamics:duct_0|4",
+      "emc": 1647
+    },
+    {
+      "item": "thermaldynamics:duct_0|2",
+      "emc": 586
+    },
+    {
+      "item": "thermalfoundation:material|164",
+      "emc": 1152
+    },
+    {
+      "item": "basemetals:cupronickel_ingot|0",
+      "emc": 1408
+    },
+    {
+      "item": "basemetals:pewter_ingot|0",
+      "emc": 896
+    },
+    {
+      "item": "enderstorage:ender_pouch|0",
+      "emc": 2800
+    },
+    {
+      "item": "enderstorage:ender_storage|0",
+      "emc": 4384
+    },
+    {
+      "item": "enderstorage:ender_storage|1",
+      "emc": 6112
+    },
+    {
+      "item": "enderio:item_alloy_ingot|8",
+      "emc": 394
+    },
+    {
+      "item": "enderio:item_material|72",
+      "emc": 193
+    }
+  ]
 }
