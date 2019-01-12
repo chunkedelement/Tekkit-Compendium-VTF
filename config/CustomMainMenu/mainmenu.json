@@ -1,0 +1,162 @@
+
+{
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Single Player",
+            "posX" : -95,
+            "posY" : -25,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "center",
+          
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "Multi-Player",
+            "posX" : -75,
+            "posY" : -5,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "center",
+           
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods List",
+            "posX" : -55,
+            "posY" : 15,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "center",
+           
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+     
+        "options":
+        {
+            "text" : "Options",
+            "posX" : -35,
+            "posY" : 35,
+            "width" : 100,
+            "height" : 20,
+			"alignment" : "center",
+       
+	   "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Quit",
+            "posX" : 35,
+            "posY" : 55,
+            "width" : 50,
+            "height" : 20,
+			"alignment" : "center",
+         
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+              
+        "refresh":
+        {
+            "text" : "Refresh",
+            "posX" : -15,
+            "posY" : 55,
+            "width" : 50,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		
+		"language":
+        {
+            "text" : "",
+            "posX" : 65,
+            "posY" : -25,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -180,
+            "posY" : -20,
+            "color" : -10,
+			"fontSize" : 0.90,
+            "alignment" : "bottom_right"
+        },
+        "tip":
+        {
+            "text" : "Tip: Keyboard Wizard In-Game, Press F7 Key.",
+            "posX" : 5,
+            "posY" : -20,
+            "color" : -255,
+			"fontSize" : 0.90,
+            "alignment" : "bottom_left"
+        },
+         "version":
+        {
+            "text" : "Version 1.0.6",
+            "posX" : 5,
+            "posY" : 53,
+            "color" : -255,
+			"fontSize" : 0.95,
+            "alignment" : "top_left"
+        },
+        "fml":
+        {
+            "text" : "",
+            "posX" : 5,
+            "posY" : 5,
+            "color" : -10,
+			"fontSize" : 0.95,
+            "alignment" : "top_left"
+        }
+    },
+    
+    "other":
+    { 
+        "background": {
+            "image": "mainmenu:compendium.png",
+            "mode":  "stretch"
+			}
+    }
+}
