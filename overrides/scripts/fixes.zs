@@ -22,4 +22,4 @@ print("Initializing 'fixes.zs'...");
 	recipes.addShaped(<rustic:iron_lattice> * 4,
 	[[null, <minecraft:iron_nugget>, null],
 	[<minecraft:iron_nugget>, <minecraft:iron_nugget>, <minecraft:iron_nugget>],
-	[null, <minecraft:iron_nugget>, null]);
+	[null, <minecraft:iron_nugget>, null]]);
