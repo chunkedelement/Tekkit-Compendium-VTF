@@ -147,6 +147,258 @@
     {
       "item": "enderio:item_material|72",
       "emc": 193
+    },
+    {
+      "item": "earthworks:block_slate|0",
+      "emc": 1
+    },
+    {
+      "item": "earthworks:block_slate_green|0",
+      "emc": 1
+    },
+    {
+      "item": "earthworks:block_slate_purple|0",
+      "emc": 1
+    },
+    {
+      "item": "enderio:item_material|20",
+      "emc": 128
+    },
+    {
+      "item": "projectred-core:resource_item|105",
+      "emc": 64
+    },
+    {
+      "item": "projectred-core:resource_item|401",
+      "emc": 256
+    },
+    {
+      "item": "projectred-core:resource_item|400",
+      "emc": 128
+    },
+    {
+      "item": "projectred-core:resource_item|402",
+      "emc": 2048
+    },
+    {
+      "item": "enderio:item_material|35",
+      "emc": 19512
+    },
+    {
+      "item": "enderio:item_material|36",
+      "emc": 9328
+    },
+    {
+      "item": "appliedenergistics2:material|3",
+      "emc": 128
+    },
+    {
+      "item": "enderio:item_material|50",
+      "emc": 64
+    },
+    {
+      "item": "enderio:item_material|74",
+      "emc": 2097
+    },
+    {
+      "item": "enderio:item_material|49",
+      "emc": 160
+    },
+    {
+      "item": "enderio:item_material|48",
+      "emc": 40
+    },
+    {
+      "item": "enderio:item_material|32",
+      "emc": 864
+    },
+    {
+      "item": "thermalfoundation:material|160",
+      "emc": 256
+    },
+    {
+      "item": "advancedrocketry:ic|3",
+      "emc": 9092
+    },
+    {
+      "item": "advancedrocketry:ic|4",
+      "emc": 16772
+    },
+    {
+      "item": "earthworks:block_chalk|0",
+      "emc": 4
+    },
+    {
+      "item": "libvulpes:productingot|7",
+      "emc": 4096
+    },
+    {
+      "item": "libvulpes:productplate|7",
+      "emc": 4096
+    },
+    {
+      "item": "thermalfoundation:material|135",
+      "emc": 2048
+    },
+    {
+      "item": "thermalfoundation:material|327",
+      "emc": 2048
+    },
+    {
+      "item": "advancedrocketry:productingot|0",
+      "emc": 4394
+    },
+    {
+      "item": "advancedrocketry:productingot|1",
+      "emc": 3072
+    },
+    {
+      "item": "advancedrocketry:productplate|1",
+      "emc": 3072
+    },
+    {
+      "item": "advancedrocketry:productplate|0",
+      "emc": 4394
+    },
+    {
+      "item": "libvulpes:productboule|3",
+      "emc": 35
+    },
+    {
+      "item": "advancedrocketry:wafer|0",
+      "emc": 8
+    },
+    {
+      "item": "libvulpes:productplate|3",
+      "emc": 32
+    },
+    {
+      "item": "advancedrocketry:itemcircuitplate|0",
+      "emc": 2120
+    },
+    {
+      "item": "advancedrocketry:itemcircuitplate|1",
+      "emc": 2632
+    },
+    {
+      "item": "advancedrocketry:ic|0",
+      "emc": 530
+    },
+    {
+      "item": "advancedrocketry:ic|1",
+      "emc": 3592
+    },
+    {
+      "item": "advancedrocketry:ic|2",
+      "emc": 658
+    },
+    {
+      "item": "advancedrocketry:satelliteprimaryfunction|5",
+      "emc": 3874
+    },
+    {
+      "item": "advancedrocketry:dataunit|0",
+      "emc": 16978
+    },
+    {
+      "item": "advancedrocketry:itemupgrade|1",
+      "emc": 18137
+    },
+    {
+      "item": "advancedrocketry:itemupgrade|0",
+      "emc": 9754
+    },
+    {
+      "item": "advancedrocketry:biomechanger|0",
+      "emc": 5174
+    },
+    {
+      "item": "advancedrocketry:itemupgrade|4",
+      "emc": 10071
+    },
+    {
+      "item": "advancedrocketry:beaconfinder|0",
+      "emc": 13663
+    },
+    {
+      "item": "advancedrocketry:atmanalyser|0",
+      "emc": 1893
+    },
+    {
+      "item": "advancedrocketry:itemupgrade|3",
+      "emc": 9894
+    },
+    {
+      "item": "libvulpes:productsheet|1",
+      "emc": 256
+    },
+    {
+      "item": "advancedrocketry:pressuretank|0",
+      "emc": 512
+    },
+    {
+      "item": "libvulpes:productsheet|6",
+      "emc": 256
+    },
+    {
+      "item": "advancedrocketry:pressuretank|1",
+      "emc": 512
+    },
+    {
+      "item": "libvulpes:productsheet|4",
+      "emc": 128
+    },
+    {
+      "item": "libvulpes:productsheet|7",
+      "emc": 4096
+    },
+    {
+      "item": "advancedrocketry:productsheet|0",
+      "emc": 4394
+    },
+    {
+      "item": "advancedrocketry:productsheet|1",
+      "emc": 3072
+    },
+    {
+      "item": "libvulpes:productsheet|9",
+      "emc": 256
+    },
+    {
+      "item": "advancedrocketry:pressuretank|2",
+      "emc": 512
+    },
+    {
+      "item": "advancedrocketry:pressuretank|3",
+      "emc": 8192
+    },
+    {
+      "item": "advancedrocketry:elevatorchip|0",
+      "emc": 6490
+    },
+    {
+      "item": "mekanism:controlcircuit|0",
+      "emc": 576
+    },
+    {
+      "item": "mekanism:enrichedalloy|0",
+      "emc": 320
+    },
+    {
+      "item": "mekanism:reinforcedalloy|0",
+      "emc": 8512
+    },
+    {
+      "item": "mekanism:atomicalloy|0",
+      "emc": 8539
+    },
+    {
+      "item": "mekanism:dust|2",
+      "emc": 512
+    },
+    {
+      "item": "mekanism:electrolyticcore|0",
+      "emc": 4928
     }
   ]
 }
