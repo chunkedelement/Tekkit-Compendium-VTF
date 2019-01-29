@@ -238,11 +238,11 @@
     },
     {
       "item": "thermalfoundation:material|135",
-      "emc": 2048
+      "emc": 8192
     },
     {
       "item": "thermalfoundation:material|327",
-      "emc": 2048
+      "emc": 8192
     },
     {
       "item": "advancedrocketry:productingot|0",
@@ -250,11 +250,11 @@
     },
     {
       "item": "advancedrocketry:productingot|1",
-      "emc": 3072
+      "emc": 12288
     },
     {
       "item": "advancedrocketry:productplate|1",
-      "emc": 3072
+      "emc": 12288
     },
     {
       "item": "advancedrocketry:productplate|0",
@@ -358,7 +358,7 @@
     },
     {
       "item": "advancedrocketry:productsheet|1",
-      "emc": 3072
+      "emc": 12288
     },
     {
       "item": "libvulpes:productsheet|9",
@@ -399,6 +399,74 @@
     {
       "item": "mekanism:electrolyticcore|0",
       "emc": 4928
+    },
+    {
+      "item": "harvestcraft:octopusrawitem|0",
+      "emc": 64
+    },
+    {
+      "item": "enderio:item_material|56",
+      "emc": 6304
+    },
+    {
+      "item": "libvulpes:productdust|0",
+      "emc": 256
+    },
+    {
+      "item": "libvulpes:productcrystal|0",
+      "emc": 256
+    },
+    {
+      "item": "enderio:item_material|53",
+      "emc": 2384
+    },
+    {
+      "item": "enderio:item_material|54",
+      "emc": 11764
+    },
+    {
+      "item": "enderio:block_industrial_insulation|0",
+      "emc": 1168
+    },
+    {
+      "item": "enderio:item_material|1",
+      "emc": 1933
+    },
+    {
+      "item": "thermalfoundation:material|1026",
+      "emc": 33
+    },
+    {
+      "item": "thermalfoundation:material|1027",
+      "emc": 72
+    },
+    {
+      "item": "thermalfoundation:material|1024",
+      "emc": 432
+    },
+    {
+      "item": "thermalfoundation:material|1025",
+      "emc": 34
+    },
+    {
+      "item": "forge:bucketfilled|0",
+      "emc": 0
+    },
+    {
+      "item": "simplyjetpacks:metaitemmods|3",
+      "emc": 14715
+    },
+    {
+      "item": "embers:ingot_dawnstone|0",
+      "emc": 1088
+    },
+    {
+      "item": "rustic:slate|0",
+      "emc": 1
+    },
+    {
+      "item": "rustic:cabinet|0",
+      "emc": 64
     }
   ]
 }
