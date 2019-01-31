@@ -467,6 +467,174 @@
     {
       "item": "rustic:cabinet|0",
       "emc": 64
+    },
+    {
+      "item": "minecraft:dye|15",
+      "emc": 24
+    },
+    {
+      "item": "nex:netherrack_path|1",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|2",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|3",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|4",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack_path|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack|3",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack|2",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:netherrack|1",
+      "emc": 1
+    },
+    {
+      "item": "advancedrocketry:blocklens|0",
+      "emc": 134
+    },
+    {
+      "item": "soulshardstow:materials|2",
+      "emc": 49
+    },
+    {
+      "item": "soulshardstow:materials|1",
+      "emc": 1056
+    },
+    {
+      "item": "nex:basalt|0",
+      "emc": 1
+    },
+    {
+      "item": "projectred-exploration:stone|2",
+      "emc": 1
+    },
+    {
+      "item": "nex:hyphae|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:frostburn_ice|0",
+      "emc": 1
+    },
+    {
+      "item": "nex:ghast_queen_tear|0",
+      "emc": 4096
+    },
+    {
+      "item": "nex:ghast_meat_raw|0",
+      "emc": 64
+    },
+    {
+      "item": "nex:salamander_hide|0",
+      "emc": 64
+    },
+    {
+      "item": "nex:salamander_hide|1",
+      "emc": 64
+    },
+    {
+      "item": "nex:enoki_mushroom|0",
+      "emc": 32
+    },
+    {
+      "item": "nex:bone_spider_fang|0",
+      "emc": 128
+    },
+    {
+      "item": "industrialforegoing:pink_slime|0",
+      "emc": 2048
+    },
+    {
+      "item": "industrialforegoing:pink_slime_ingot|0",
+      "emc": 2304
+    },
+    {
+      "item": "mekanism:salt|0",
+      "emc": 1
+    },
+    {
+      "item": "harvestcraft:flouritem|0",
+      "emc": 24
+    },
+    {
+      "item": "appliedenergistics2:material|4",
+      "emc": 24
+    },
+    {
+      "item": "projectred-core:resource_item|301",
+      "emc": 73
+    },
+    {
+      "item": "projectred-exploration:stone|0",
+      "emc": 1
+    },
+    {
+      "item": "quark:marble|0",
+      "emc": 1
+    },
+    {
+      "item": "forestry:thermionic_tubes|0",
+      "emc": 192
+    },
+    {
+      "item": "forestry:thermionic_tubes|1",
+      "emc": 352
+    },
+    {
+      "item": "forestry:thermionic_tubes|2",
+      "emc": 232
+    },
+    {
+      "item": "forestry:thermionic_tubes|4",
+      "emc": 2592
+    },
+    {
+      "item": "forestry:thermionic_tubes|5",
+      "emc": 10272
+    },
+    {
+      "item": "forestry:thermionic_tubes|6",
+      "emc": 112
+    },
+    {
+      "item": "forestry:thermionic_tubes|7",
+      "emc": 512
+    },
+    {
+      "item": "forestry:thermionic_tubes|9",
+      "emc": 20512
+    },
+    {
+      "item": "forestry:thermionic_tubes|11",
+      "emc": 1112
+    },
+    {
+      "item": "forestry:thermionic_tubes|12",
+      "emc": 705
+    },
+    {
+      "item": "redstonearsenal:material|160",
+      "emc": 8512
     }
   ]
 }
