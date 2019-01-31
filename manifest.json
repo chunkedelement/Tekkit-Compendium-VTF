@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Compendium-VTF",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "author": "chunked_element",
   "projectID": 305026,
   "files": [
@@ -137,7 +137,7 @@
     },
     {
       "projectID": 226410,
-      "fileID": 2642385,
+      "fileID": 2666545,
       "required": true
     },
     {
@@ -207,7 +207,7 @@
     },
     {
       "projectID": 231868,
-      "fileID": 2632476,
+      "fileID": 2664060,
       "required": true
     },
     {
@@ -297,7 +297,7 @@
     },
     {
       "projectID": 64578,
-      "fileID": 2652322,
+      "fileID": 2666521,
       "required": true
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "projectID": 303001,
-      "fileID": 2652320,
+      "fileID": 2666519,
       "required": true
     },
     {
@@ -506,11 +506,6 @@
       "required": true
     },
     {
-      "projectID": 236541,
-      "fileID": 2665985,
-      "required": true
-    },
-    {
       "projectID": 293507,
       "fileID": 2654343,
       "required": true
@@ -558,11 +553,6 @@
     {
       "projectID": 232131,
       "fileID": 2624732,
-      "required": true
-    },
-    {
-      "projectID": 236542,
-      "fileID": 2666136,
       "required": true
     },
     {
@@ -663,6 +653,21 @@
     {
       "projectID": 298341,
       "fileID": 2635128,
+      "required": true
+    },
+    {
+      "projectID": 256343,
+      "fileID": 2477723,
+      "required": true
+    },
+    {
+      "projectID": 236541,
+      "fileID": 2665981,
+      "required": true
+    },
+    {
+      "projectID": 236542,
+      "fileID": 2666136,
       "required": true
     }
   ],
