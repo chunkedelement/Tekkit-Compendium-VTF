@@ -99,3 +99,22 @@
 	mods.jei.JEI.hide(<embers:shovel_tin>);
 	mods.jei.JEI.hide(<embers:hoe_tin>);
 	mods.jei.JEI.hide(<embers:sword_tin>);
+	
+#remove Dupicate ore conflicts	
+	recipes.remove(<embers:ingot_aluminum>);
+	recipes.remove(<embers:nugget_copper>);
+	recipes.remove(<embers:nugget_lead>);
+	recipes.remove(<embers:nugget_aluminum>);
+	recipes.remove(<embers:nugget_bronze>);
+	recipes.remove(<embers:nugget_electrum>);
+	recipes.remove(<embers:nugget_nickel>);
+	recipes.remove(<embers:nugget_tin>);
+	
+#hide extras in JEI	
+	mods.jei.JEI.hide(<embers:ingot_aluminum>);
+	mods.jei.JEI.hide(<embers:nugget_lead>);
+	mods.jei.JEI.hide(<embers:nugget_aluminum>);
+	mods.jei.JEI.hide(<embers:nugget_bronze>);
+	mods.jei.JEI.hide(<embers:nugget_electrum>);
+	mods.jei.JEI.hide(<embers:nugget_nickel>);
+	mods.jei.JEI.hide(<embers:nugget_tin>);
