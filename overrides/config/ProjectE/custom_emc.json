@@ -513,14 +513,6 @@
       "emc": 134
     },
     {
-      "item": "soulshardstow:materials|2",
-      "emc": 49
-    },
-    {
-      "item": "soulshardstow:materials|1",
-      "emc": 1056
-    },
-    {
       "item": "nex:basalt|0",
       "emc": 1
     },
@@ -635,6 +627,18 @@
     {
       "item": "redstonearsenal:material|160",
       "emc": 8512
+    },
+    {
+      "item": "enderio:item_material|9",
+      "emc": 16
+    },
+    {
+      "item": "mmdlib:wood_gear|0",
+      "emc": 16
+    },
+    {
+      "item": "enderio:item_material|10",
+      "emc": 20
     }
   ]
-}
+}   
