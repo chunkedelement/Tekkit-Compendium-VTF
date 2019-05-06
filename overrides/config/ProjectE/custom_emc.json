@@ -639,6 +639,14 @@
     {
       "item": "enderio:item_material|10",
       "emc": 20
+    },
+    {
+      "item": "soulshardsrespawn:materials|2",
+      "emc": 49
+    },
+    {
+      "item": "soulshardsrespawn:materials|1",
+      "emc": 1056
     }
   ]
-}   
+}
