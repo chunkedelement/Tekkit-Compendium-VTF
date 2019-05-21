@@ -1,0 +1,75 @@
+Server Files for VTF 1.1.1
+-See Client Changeloag for full update Details.
+-Forge server version 14.23.5.2838
+-Running the start_server.bat should gen the server, remember to edit server.properties to your liking IP, ports, whitelist ect.
+-Whitelist is set to true in server.properties so edit if you need.
+-Remember to Backup your world(s) before updating!
+-If server gets stuck when updating server on currnet world type /fml confirm in the console
+-Thanks everyone for checking out the pack, happy mining, and Enjoy!
+
+Welcome Back Everyone!
+-v1.1.1-update
+-Tekkit Style-Reto Pack, Read the overview of what its about!
+-Thanks everyone for checking out the pack, happy mining, and Enjoy!
+
+Fixed/Comments:
+-#13 Phosphor mod Mixin Lib issue
+-#12 Made some adjustments to sound padding issue bug
+-#11 Sound mod added to server version
+-Corail Tombstone-lost tablet issue, disabled fog due to lag issue
+-Still Disabled Mekanism Voice Server-weird server lag
+-Main Menu formatting
+-Updated EMC values
+-Disabled/reduced Corail Tombstone Fog, server lag
+-FTB utilities disabled backups as dup with FTB backups Mod (see FTB backups.cfg)
+-Rftools Dimensions (server version Limit Player Dimensions #)
+-Pack has a few mods still alpha so Backup your world(s)!!
+
+Mods Added:
+None
+
+Mods Removed:
+None
+
+Mods Updated:
+Atomic Science
+AutoRegLib
+Comforts
+Corail Tombstone
+Enderio
+EnderIO Zoo
+Extreme Reactors
+Forge Endertech
+FTBLib
+FTB Util
+FTB Backups
+Hammer Core
+Industrial Craft
+Industrial Foregoing
+JourneyMap
+LagGoggles
+LibVulpes?
+Mcjtylib
+Mekanism
+Mekanism Generators
+Mekanism Tools
+Mikes Mods Library
+Moving Light Source
+orespawn
+Modular PowerSuits
+Numina
+Open Blocks Elevator
+Phosphor
+ProjectE
+Quark
+RfTools
+RfTools Dimensions
+Simply Jetpacks 2
+Toast Control
+Xnet
+Ynot
+
+
+
+
+
