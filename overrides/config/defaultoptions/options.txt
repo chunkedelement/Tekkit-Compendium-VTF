@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:[]
+resourcePacks:["Lithos-Core v1.23 for 1.12x.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -51,9 +51,9 @@ realmsNotifications:false
 enableWeakAttacks:false
 autoJump:true
 narrator:0
-tutorialStep:punch_tree
-soundCategory_master:1.0
-soundCategory_music:1.0
+tutorialStep:none
+soundCategory_master:0.5066225
+soundCategory_music:0.20422535
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
@@ -62,6 +62,8 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+soundCategory_ds_footsteps:1.0
+soundCategory_ds_biome:1.0
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

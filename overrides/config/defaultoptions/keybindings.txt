@@ -1,5 +1,5 @@
-key_key.attack:-99:NONE
-key_key.use:-100:NONE
+key_key.attack:-100:NONE
+key_key.use:-99:NONE
 key_key.forward:17:NONE
 key_key.left:30:NONE
 key_key.back:31:NONE
@@ -31,15 +31,11 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
-key_quark.keybind.lockBuilding:37:NONE
-key_quark.keybind.dropoff:0:NONE
-key_quark.keybind.changeHotbar:44:NONE
-key_quark.keybind.chestSort:0:NONE
-key_quark.keybind.chestDropoff:0:NONE
-key_quark.keybind.chestMerge:0:NONE
-key_quark.keybind.chestRestock:0:NONE
-key_quark.keybind.chestExtract:0:NONE
-key_quark.keybind.toggleAutojump:48:NONE
+key_ALT Key:56:NONE
+key_Boost Key:29:NONE
+key_Mode Switch Key:50:NONE
+key_Side Inventory Key:46:NONE
+key_Hub Expand Key:45:NONE
 key_quark.emote.no:0:NONE
 key_quark.emote.yes:0:NONE
 key_quark.emote.wave:0:NONE
@@ -58,9 +54,19 @@ key_quark.emote.dab:0:NONE
 key_quark.emote.jet:0:NONE
 key_quark.emote.exorcist:0:NONE
 key_quark.emote.zombie:0:NONE
+key_quark.keybind.lockBuilding:37:NONE
+key_quark.keybind.toggleAutojump:48:NONE
+key_quark.keybind.dropoff:0:NONE
+key_quark.keybind.changeHotbar:44:NONE
+key_quark.keybind.chestSort:0:NONE
+key_quark.keybind.chestDropoff:0:NONE
+key_quark.keybind.chestMerge:0:NONE
+key_quark.keybind.chestRestock:0:NONE
+key_quark.keybind.chestExtract:0:NONE
+key_enderio.keybind.inventory:23:NONE
 key_enderio.keybind.glidertoggle:34:NONE
 key_enderio.keybind.soundlocator:0:NONE
-key_enderio.keybind.nightvision:25:NONE
+key_enderio.keybind.nightvision:40:NONE
 key_enderio.keybind.gogglesofrevealing:0:NONE
 key_enderio.keybind.stepassist:0:NONE
 key_enderio.keybind.speed:0:NONE
@@ -73,20 +79,21 @@ key_enderio.keybind.fovplus:0:NONE
 key_enderio.keybind.fovminus:0:NONE
 key_enderio.keybind.fovplusfast:0:NONE
 key_enderio.keybind.fovminusfast:0:NONE
-key_key.ftbutilities.warp:35:NONE
+key_keybind.hammercorerenderstack:77:NONE
+key_pe.key.armor_toggle:45:NONE
+key_pe.key.charge:47:NONE
+key_pe.key.extra_function:46:NONE
+key_pe.key.fire_projectile:19:NONE
+key_pe.key.mode:34:NONE
 key_key.ftbutilities.nbt:49:ALT
+key_key.ftbutilities.trash:211:NONE
 key_Open MPS Keybind GUI:-1:NONE
 key_Go Down (MPS Flight Control):44:NONE
 key_Cycle Tool Backward (MPS):-1:NONE
 key_Cycle Tool Forward (MPS):-1:NONE
 key_Cosmetic (MPS):-1:NONE
 key_oreexcavation.key.excavate:41:NONE
-key_oreexcavation.key.shape:40:NONE
-key_pe.key.armor_toggle:45:NONE
-key_pe.key.charge:47:NONE
-key_pe.key.extra_function:46:NONE
-key_pe.key.fire_projectile:19:NONE
-key_pe.key.mode:34:NONE
+key_oreexcavation.key.shape:52:NONE
 key_simplyjetpacks.keybind.engine:34:NONE
 key_simplyjetpacks.keybind.hover:39:NONE
 key_simplyjetpacks.keybind.charger:25:NONE
@@ -102,6 +109,8 @@ key_key.jei.showUses:22:NONE
 key_key.jei.recipeBack:14:NONE
 key_key.jei.previousPage:201:NONE
 key_key.jei.nextPage:209:NONE
+key_key.jei.bookmark:30:NONE
+key_key.jei.toggleBookmarkOverlay:0:NONE
 key_key.toggle_focus.desc:15:NONE
 key_key.toggleLiquids:38:NONE
 key_key.toggleVisible:0:NONE
@@ -110,18 +119,14 @@ key_Mekanism Item Mode Switch:50:NONE
 key_Mekanism Armor Mode Switch:34:NONE
 key_Mekanism Feet Mode Switch:35:NONE
 key_Mekanism Voice:22:NONE
-key_invtweaks.key.sort:19:NONE
-key_keybind.fovfixtoggle:0:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
+key_invtweaks.key.sort:19:NONE
+key_keywizard.keybind.openKeyboardWizard:65:NONE
+key_keybind.fovfixtoggle:0:NONE
 key_tombstone.message.knowledge_of_death:0:NONE
-key_dsurround.cfg.keybind.SelectionBox:48:NONE
-key_dsurround.cfg.keybind.Volume:47:NONE
-key_dsurround.cfg.keybind.LightLevel:38:NONE
-key_dsurround.cfg.keybind.ChunkBorders:67:NONE
-key_presets.cfg.keybind.Presets:25:NONE
 key_Toggle Jetpack:45:NONE
 key_Open Rocket GUI:46:NONE
 key_Toggle RCS:19:NONE
@@ -134,6 +139,7 @@ key_key.journeymap.zoom_out:12:NONE
 key_key.journeymap.minimap_type:26:NONE
 key_key.journeymap.minimap_preset:43:NONE
 key_key.journeymap.create_waypoint:48:NONE
+key_key.journeymap.toggle_waypoints:44:NONE
 key_key.journeymap.fullscreen_create_waypoint:48:NONE
 key_key.journeymap.fullscreen_chat_position:46:NONE
 key_key.journeymap.map_toggle_alt:36:NONE
@@ -145,3 +151,4 @@ key_key.journeymap.fullscreen.south:208:NONE
 key_key.journeymap.fullscreen.east:205:NONE
 key_key.journeymap.fullscreen.west:203:NONE
 key_key.control:29:NONE
+key_Profile GUI:210:NONE
