@@ -20,3 +20,7 @@ recipes.addShaped(<minecraft:stone_shovel>,[[null,<minecraft:mossy_cobblestone>,
 
 #Mossy Stone Pick
 recipes.addShaped(<minecraft:stone_pickaxe>,[[<minecraft:mossy_cobblestone>,<minecraft:mossy_cobblestone>,<minecraft:mossy_cobblestone>],[null,<minecraft:stick>,null],[null,<minecraft:stick>,null]]);
+
+#Paper Recipies 
+recipes.addShapeless(<minecraft:paper>* 3, [<thermalfoundation:material:800>, <thermalfoundation:material:800>, <thermalfoundation:material:800>]);
+recipes.addShapeless(<minecraft:paper>* 3, [<thermalfoundation:material:800>, <minecraft:clay_ball>, <minecraft:wheat>]);
