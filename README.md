@@ -7,7 +7,7 @@ The goal here is to capture the feel of the original packs while trying to make 
 
 [![Curse Forge](http://cf.way2muchnoise.eu/full_ce-vtf-retro-tekk_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/ce-vtf-retro-tekk)
 
-<a href="http://minecraft.curseforge.com/projects/compendium-vtf">VTF-Info on Curse</a>
+<a href="https://www.curseforge.com/minecraft/modpacks/ce-vtf-retro-tekk">VTF-Info on Curse</a>
 
 <a href="http://discord.gg/Q4Y6dNV">VTF-Discord</a>
  
