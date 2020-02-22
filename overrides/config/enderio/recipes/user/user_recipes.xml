@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  
   <recipe name="Alloy: Constantan (Thermal Expansion)" required="false">
     <alloying energy="4000" exp="0">
       <input name="ingotCopper"/>
@@ -8,4 +9,7 @@
       <output name="ingotConstantan" amount="2"/>
     </alloying>
   </recipe>
+ 
+
 </enderio:recipes>
+
