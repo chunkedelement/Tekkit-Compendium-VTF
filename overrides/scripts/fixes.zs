@@ -3,7 +3,7 @@ print("Initializing 'fixes.zs'...");
 #Remove ChunkLoaders (FTBU is used)
 	recipes.remove(<opencomputers:upgrade:4>);
 	<opencomputers:upgrade:4>.addTooltip(format.darkRed("Disabled due to Mod Overlap!"));
-
+	
 #barley seeds recipe dup
 	recipes.remove(<harvestcraft:barleyitem>);
 	recipes.addShapeless(<harvestcraft:barleyseeditem> * 2,
@@ -46,20 +46,19 @@ print("Initializing 'fixes.zs'...");
 #Fix Ore Conflicts Again
 
 #Tin
-	<ore:oreTin>.remove(<forestry:resources:2>);
+	#<ore:oreTin>.remove(<forestry:resources:2>);
 	<ore:oreTin>.remove(<ic2:resource:3>);
-	<ore:oreTin>.remove(<mekanism:oreblock:2>);
 	<ore:oreTin>.remove(<libvulpes:ore0:5>);
 	
 #Aluminum
 	<ore:oreAluminum>.remove(<libvulpes:ore0:9>);
-	mods.jei.JEI.hide(<embers:ingot_aluminum>);
 
 #Copper
-	<ore:oreCopper>.remove(<ic2:resource:1>);
-	<ore:oreCopper>.remove(<forestry:resources:1>);
-#	<ore:oreCopper>.remove(<mekanism:oreblock:1>);
 	<ore:oreCopper>.remove(<libvulpes:ore0:4>);
 
 #Lead	
 	<ore:oreLead>.remove(<ic2:resource:2>);
+
+
+
+	
