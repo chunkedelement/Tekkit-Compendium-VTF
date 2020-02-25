@@ -22,5 +22,8 @@ recipes.addShaped(<minecraft:stone_shovel>,[[null,<minecraft:mossy_cobblestone>,
 recipes.addShaped(<minecraft:stone_pickaxe>,[[<minecraft:mossy_cobblestone>,<minecraft:mossy_cobblestone>,<minecraft:mossy_cobblestone>],[null,<minecraft:stick>,null],[null,<minecraft:stick>,null]]);
 
 #Paper Recipies 
-recipes.addShapeless(<minecraft:paper>* 3, [<thermalfoundation:material:800>, <thermalfoundation:material:800>, <thermalfoundation:material:800>]);
-recipes.addShapeless(<minecraft:paper>* 3, [<thermalfoundation:material:800>, <minecraft:clay_ball>, <minecraft:wheat>]);
+recipes.addShapeless(<minecraft:paper>* 3, [<forestry:wood_pulp>, <forestry:wood_pulp>, <forestry:wood_pulp>]);
+recipes.addShapeless(<minecraft:paper>* 3, [<forestry:wood_pulp>, <minecraft:clay_ball>, <minecraft:wheat>]);
+
+#Horse Saddle
+recipes.addShaped(<minecraft:saddle>,[[<minecraft:leather>,<minecraft:leather>,<minecraft:leather>],[<minecraft:string>,<minecraft:wool>,<minecraft:string>],[<minecraft:iron_ingot>,null,<minecraft:iron_ingot>]]);
