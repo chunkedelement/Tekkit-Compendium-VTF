@@ -1,0 +1,87 @@
+Server Files for 1.2.0b
+-**Warning some mods have been removed/added-current worlds may not be compatible please backup your world(s) before updating to newer version
+-See Client Changeloag for full update Details.
+-Forge server version 14.23.5.2847
+-Running the start_server.bat should gen the server, remember to edit server.properties to your liking IP, ports, whitelist ect.
+-Whitelist is set to true in server.properties so edit if you need.
+-Remember to Backup your world(s) before updating!
+-If server gets stuck when updating server on currnet world type /fml confirm in the console
+-Thanks everyone for checking out the pack, happy mining, and Enjoy!
+
+#Welcome Back Everyone!
+-v1.2.0b- Changes Update
+-Some changes to improve fun, preformance, stability, and reduce lag
+-Thanks everyone for checking out the pack, happy mining, and Enjoy!
+
+#Fixed/Changed/Comments:
+-Updates
+**Many changes, Warning some mods have been removed/added-current worlds likely not compatible with 1.2.0 please backup your world(s) before updating to newer version. (see mods removed/added).
+-Forge version 14.23.5.2847
+-JEI Recipie bug addressed v292
+-#12 Made some adjustments to sound padding issue bug
+-Main Menu formatting
+-Updated EMC values
+-Disabled/reduced Corail Tombstone Fog, server lag
+-projectE recipe changes
+-FTB utilities disabled backups as dup with FTB backups Mod (see FTB backups.cfg)
+-Pack has mods still alpha (atomic Science) so Backup your world(s)!!
+
+#Mods Added:
+Additional Pipes
+Barrels, Drums and more
+Dimensional Doors
+Energy Converters
+Fast Furnace
+Galacticraft-v.238
+RailCraft-More Trains so why not?
+Recurrent Complex
+Simply Backpacks
+
+#Mods Removed:
+Advanced Rocketry->Galacticraft
+Corail Recycler
+Embers/Soot (Some Lag conflict, ore issues+ moving towards retro sylte tech+magic)
+Mekanism/Tools
+Mystical World-bug causing crashes, oregen incompatibility, mob/gen lag
+Rftools/Dimensions-Conflict many dimensions lag, Bug-server crash
+Surge-(Temp removal-drastic FPS drop) https://github.com/Epoxide-Software/Surge/issues/22
+ThemalExpansion, conflict/dupicates with ore gen, extra cells, and AE lag
+
+#Mods Updated:
+Atomic Science
+BuildCraft
+Capsule
+Code Chicken
+Corail Tombstone
+Dynamic Surroundings
+EnderCore
+EnderIO/Zoo
+Expanded Equivalence
+Extra Cells 2.6.2 due to bug
+Foam Fix
+Forestry
+Forge Endertech
+FTB Utilities
+FTB Backups
+Industrial Craft
+JEE
+JEI
+Keyboard Wizard
+LibEx
+MMDLib
+Mystical Lib
+NetherEx
+OpenElevator
+Ordinary Coins
+OreEx
+Pams
+Quark
+Reborn Core
+Simply Jetpacks2
+Solar Flux
+Storage Drawers
+Title Changer
+UniDict
+WaionLib
+XC Patch
+Red-stone Arsenal
