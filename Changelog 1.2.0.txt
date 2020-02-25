@@ -19,10 +19,10 @@ Server Files for 1.2.1b
 -Forge version 14.23.5.2847
 -JEI Recipie bug addressed v292
 -#12 Made some adjustments to sound padding issue bug
+-#17-https://github.com/chunkedelement/Compendium-VTF/issues/17#issue-570284014
 -Main Menu formatting
 -Updated EMC values
 -Disabled/reduced Corail Tombstone Fog, server lag
--projectE recipe changes
 -FTB utilities disabled backups as dup with FTB backups Mod (see FTB backups.cfg)
 -Pack has mods still alpha (atomic Science) so Backup your world(s)!!
 
@@ -31,7 +31,7 @@ Galacticraft Update-v.244
 Random Patches
 
 #Mods Removed:
-XC Patch (This mod was a patch that existed in old versions of Extra Cells 2.  It is no longer necessary.)
+XC Patch (This mod was a patch that existed in old versions of Extra Cells 2. Causing Pack Crash.)
 
 #Mods Updated:
 Advanced Hood Launchers
