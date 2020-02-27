@@ -60,12 +60,13 @@ Galacticraft Planets
 Hammer Core
 Industrial Craft
 JEI
-JourneyMap
+JourneyMap-5.7.0
 Keyboard Wizard
 MicdooodleCore
 Mystical Lib
 Open Computers
 Open Elevator
+Quark
 Reborn Core
 Resource Loader
 Solar Flux Reborn
