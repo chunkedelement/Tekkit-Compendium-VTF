@@ -31,7 +31,7 @@ Galacticraft Update-v.244
 Random Patches
 
 #Mods Removed:
-XC Patch (This mod was a patch that existed in old versions of Extra Cells 2. Causing Pack Crash.)
+XC Patch (This mod was a patch that existed in old versions of Extra Cells 2.) (Causing Pack Crash.)
 
 #Mods Updated:
 Advanced Hood Launchers
