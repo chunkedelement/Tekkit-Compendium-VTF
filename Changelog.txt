@@ -71,6 +71,6 @@ Reborn Core
 Resource Loader
 Solar Flux Reborn
 Steves Carts
-Tesla Core
+Tesla Core 1.0.17
 UniDict
 Villager Market
