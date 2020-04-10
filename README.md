@@ -1,10 +1,10 @@
 # Compendium-VTF
 
-[![Curse Forge](http://cf.way2muchnoise.eu/full_ce-vtf-retro-tekk_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/ce-vtf-retro-tekk)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/ce-vtf-retro-tekk.svg)](https://www.curseforge.com/minecraft/modpacks/ce-vtf-retro-tekk)
+[![Curse Forge](http://cf.way2muchnoise.eu/full_vtf-retro-tekkit_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/vtf-retro-tekkit.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)
 
 A Blended up Vanilla and Tekkit style Modpack for reto style fun.
 
--Working Modcount=170
+-Working Modcount=173
 
 This is a collaboration of some of my favorite packs tech aspects from where it started for me and many others. This pack is a throwback to where it all began after Vanilla....Tekkit and FTB of course!  
 
