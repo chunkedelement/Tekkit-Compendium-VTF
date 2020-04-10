@@ -1,6 +1,6 @@
 # Compendium-VTF
 
-[![Curse Forge](http://cf.way2muchnoise.eu/full_ce-vtf-retro-tekk_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/ce-vtf-retro-tekk.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)
+[![Curse Forge](http://cf.way2muchnoise.eu/full_vtf-retro-tekkit_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/vtf-retro-tekkit.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)
 
 A Blended up Vanilla and Tekkit style Modpack for reto style fun.
 
