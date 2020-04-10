@@ -1,4 +1,4 @@
-Server Files for 1.2.0b
+Server Files for 1.2.1
 -**Warning some mods have been removed/added-current worlds may not be compatible please backup your world(s) before updating to newer version
 -See Client Changeloag for full update Details.
 -Forge server version 14.23.5.2847
@@ -9,7 +9,7 @@ Server Files for 1.2.0b
 -Thanks everyone for checking out the pack, happy mining, and Enjoy!
 
 #Welcome Back Everyone!
--v1.2.0b- Changes Update
+-v1.2.1b- Changes Update
 -Some changes to improve fun, preformance, stability, and reduce lag
 -Thanks everyone for checking out the pack, happy mining, and Enjoy!
 
@@ -19,69 +19,67 @@ Server Files for 1.2.0b
 -Forge version 14.23.5.2847
 -JEI Recipie bug addressed v292
 -#12 Made some adjustments to sound padding issue bug
+-#17-https://github.com/chunkedelement/Compendium-VTF/issues/17#issue-570284014
 -Main Menu formatting
 -Updated EMC values
 -Disabled/reduced Corail Tombstone Fog, server lag
--projectE recipe changes
 -FTB utilities disabled backups as dup with FTB backups Mod (see FTB backups.cfg)
 -Pack has mods still alpha (atomic Science) so Backup your world(s)!!
 
 #Mods Added:
-Additional Pipes
-Barrels, Drums and more
-Dimensional Doors
-Energy Converters
-Fast Furnace
-Galacticraft-v.238
-RailCraft-More Trains so why not?
-Recurrent Complex
-Simply Backpacks
+Galacticraft Update-v.244
+Random Patches
 
 #Mods Removed:
-Advanced Rocketry->Galacticraft
-Corail Recycler
-Embers/Soot (Some Lag conflict, ore issues+ moving towards retro sylte tech+magic)
-Mekanism/Tools
-Mystical World-bug causing crashes, oregen incompatibility, mob/gen lag
-Rftools/Dimensions-Conflict many dimensions lag, Bug-server crash
-Surge-(Temp removal-drastic FPS drop) https://github.com/Epoxide-Software/Surge/issues/22
-ThemalExpansion, conflict/dupicates with ore gen, extra cells, and AE lag
+XC Patch (This mod was a patch that existed in old versions of Extra Cells 2.) (Causing Pack Crash.)
 
 #Mods Updated:
+Advanced Hood Launchers
 Atomic Science
-BuildCraft
+Better Builders Wands
+buildcraft-all-7.99.24.6.ja
 Capsule
-Code Chicken
-Corail Tombstone
-Dynamic Surroundings
+COFH
+Cooking for Blockheads
+Comforts
+Craft Tweaker
+tombstone-3.7.2-1.12.2.jar
+Custom Main Menu
+Discord RPC
+DynamicSurroundings-1.12.2-3.6.1.0.jar
 EnderCore
 EnderIO/Zoo
-Expanded Equivalence
-Extra Cells 2.6.2 due to bug
+Energy Converters
+Extra Cells 2.6.5
+Fast Workbench
 Foam Fix
-Forestry
 Forge Endertech
+Forestry
+FTB Lib
 FTB Utilities
-FTB Backups
-Industrial Craft
-JEE
+Galacticraft .244
+Galacticraft Planets
+HammerLib-1.12.2-2.0.6.14.jar
+industrialcraft-2-2.8.195-ex112.jar
 JEI
+JourneyMap
 Keyboard Wizard
-LibEx
-MMDLib
+Library EX
+MicdooodleCore
 Mystical Lib
-NetherEx
-OpenElevator
-Ordinary Coins
-OreEx
-Pams
-Quark
+NetherEx-1.12.2-2.1.2.jar
+Open Computers
+Open Elevator
+OreExcavation
+OreSpawn-1.12-3.3.1.179.jar
+Phosphor
+randompatches-1.12.2-1.21.0.1.jar
 Reborn Core
-Simply Jetpacks2
-Solar Flux
-Storage Drawers
-Title Changer
+RedstoneArsenal-1.12.2-2.6.4.1-universal.jar
+RedstoneFlux-1.12-2.1.1.1-universal.jar
+Resource Loader
+Solar Flux Reborn
+Steves Carts
+Tesla Core
 UniDict
-WaionLib
-XC Patch
-Red-stone Arsenal
+Villager Market
