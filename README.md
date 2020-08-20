@@ -1,4 +1,4 @@
-# Compendium-VTF
+# Compendium-VTF-Retro Tekkit
 
 [![Curse Forge](http://cf.way2muchnoise.eu/full_vtf-retro-tekkit_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/vtf-retro-tekkit.svg)](https://www.curseforge.com/minecraft/modpacks/vtf-retro-tekkit)
 
