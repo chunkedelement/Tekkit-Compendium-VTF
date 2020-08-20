@@ -6,7 +6,8 @@ A Blended up Vanilla and Tekkit style Modpack for reto style fun.
 
 -Working Modcount=172
 
-This is a collaboration of some of my favorite packs tech aspects from where it started for me and many others. This pack is a throwback to where it all began after Vanilla....Tekkit and FTB of course!  
+Influenced by Tekkit and Tekkit Classic, this is a collaboration of some of my favorite packs tech aspects, that is a throwback to where it all began  Vanilla, Tekkit and FTB of course!
+Focus on simple or complex tech, tinker with some nuclear reactors, design architectural unique structures (had to have architectural craft in there), try some computer programming, or explore sapce/alternate dimensions.
 
 The goal here is to capture the feel of the original packs while trying to make it fun, enjoyable for all players just to have a good time with some great ol' tekkit and FTB style mods.
 
