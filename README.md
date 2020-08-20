@@ -4,7 +4,7 @@
 
 A Blended up Vanilla and Tekkit style Modpack for reto style fun.
 
--Working Modcount=173
+-Working Modcount=172
 
 This is a collaboration of some of my favorite packs tech aspects from where it started for me and many others. This pack is a throwback to where it all began after Vanilla....Tekkit and FTB of course!  
 
