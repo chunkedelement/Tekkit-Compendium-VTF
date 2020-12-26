@@ -1,7 +1,7 @@
 # Tekkit Compendium-VTF
 
 [![Curse Forge](http://cf.way2muchnoise.eu/full_tekkit-compendium-vtf_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/tekkit-compendium-vtf)  [![Curse Forge](http://cf.way2muchnoise.eu/versions/tekkit-compendium-vtf.svg)](https://www.curseforge.com/minecraft/modpacks/tekkit-compendium-vtf)
-
+<img alt="Discord" src="https://img.shields.io/discord/336669941543469056?color=blue&label=Discord&logo=Discord&logoColor=white&style=plastic">
 A Blended up Vanilla and Tekkit style Modpack for reto style fun.
 
 -Working Modcount=172
